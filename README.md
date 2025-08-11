@@ -48,7 +48,7 @@ Para ello se realiza los siguientes pasos para su extracción, transformación, 
 
     - Random Forest: Utiliza la importancia de las variables proporcionada por el modelo. Random Forest calcula la importancia                basándose en cómo cada variable contribuye a la reducción de la impureza durante las divisiones de los árboles.
 
-    - Otro Modelos: Dependiendo del modelo elegido, se consideró el análisis de métricas específicas para comprender la relevancia de        las variables. Por ejemplo,  la importancia relativa en técnicas de boosting (como XGBoost).
+    - Otro Modelos: Dependiendo del modelo elegido, se consideró el análisis de métricas específicas para comprender la relevancia de        las variables. Por ejemplo, la importancia relativa en técnicas de boosting (como XGBoost).
       
 # **CONCLUSIÓN** 💿
 
