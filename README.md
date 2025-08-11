@@ -1,7 +1,7 @@
-**INTRODUCCIÓN** 🚀
+##**INTRODUCCIÓN** 🚀
 <div align='justify'>
 La empresa Telecom X enfrenta una alta tasa de cancelaciones y necesita comprender los factores que llevan a la pérdida de clientes (Churn), por lo tanto, requiere desarrollar modelos predictivos capaces de prever qué clientes tienen mayor probabilidad de cancelar sus servicios.
-____________________________________________________________________________________________________________________________________
+
   
 **Características** ✨
 
