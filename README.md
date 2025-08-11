@@ -79,7 +79,7 @@ Ejecuta el siguiente comando para instalar las bibliotecas necesarias:
 pip install pandas numpy matplotlib
 
 # **Instrucciones para Ejecutar** 🚀
-Clona este repositorio en tu máquina local: ´´´bash git clone https://github.com/Marion13673/TelecomX_LATAM.git Abre el archivo index.html en tu navegador para ver y usar la aplicación.
+Clona este repositorio en tu máquina local: ´´´bash git clone https://github.com/Marion13673/TelecomX_PARTE2_LATAM.git Abre el archivo index.html en tu navegador para ver y usar la aplicación.
 
 # **Contribuciones** 🤝
 💡 ¡Las contribuciones son bienvenidas! Si deseas contribuir a este proyecto, por favor sigue estos pasos:
