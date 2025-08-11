@@ -37,21 +37,18 @@ Para ello se realiza los siguientes pasos para su extracción, transformación, 
     - Tiempo de contrato × Cancelación
     - Gasto total × Cancelación
 
-* ✅ Utilizar gráficos como boxplots o scatter plots para visualizar patrones y posibles tendencias.
+* ✅ Utilizar gráficos como boxplots, scatter plots, gráficos de calor y de barra para visualizar patrones y posibles tendencias.
 
 * ✅ Dividir el conjunto de datos en entrenamiento y prueba para evaluar el rendimiento del modelo. Una división común es 70% para entrenamiento y 30% para prueba.
 
 * ✅ Después de elegir los modelos, realizar el análisis de las variables más relevantes para la predicción de la cancelación:
 
-    - Regresión Logística: Investiga los coeficientes de las variables, que muestran su contribución a la predicción de cancelación.
-
+    
     - KNN (K-Nearest Neighbors): Observar cómo los vecinos más cercanos influyen en la decisión de clasificación. Las variables más           impactantes pueden ser aquellas que más contribuyen a la proximidad entre los puntos de datos.
 
     - Random Forest: Utiliza la importancia de las variables proporcionada por el modelo. Random Forest calcula la importancia                basándose en cómo cada variable contribuye a la reducción de la impureza durante las divisiones de los árboles.
 
-    - SVM (Support Vector Machine): En el SVM, las variables más relevantes son aquellas que influyen en la frontera de decisión entre        las clases. Puedes analizar los coeficientes de los vectores de soporte para entender qué variables tienen mayor impacto.
-
-    - Otros Modelos: Dependiendo del modelo elegido, considera el análisis de métricas específicas para comprender la relevancia de las       variables. Por ejemplo, coeficientes en modelos lineales, pesos en redes neuronales, o la importancia relativa en técnicas de           boosting (como XGBoost).
+    - Otro Modelos: Dependiendo del modelo elegido, se consideró el análisis de métricas específicas para comprender la relevancia de        las variables. Por ejemplo,  la importancia relativa en técnicas de boosting (como XGBoost).
       
 # **CONCLUSIÓN** 💿
 
@@ -73,15 +70,15 @@ Pandas: Manipulación y análisis de datos estructurados.
 NumPy: Trabajo con arrays multidimensionales y cálculos matemáticos.
 Matplotlib: Creación de gráficos y visualizaciones de datos.
 Seaborn: Biblioteca avanzada para visualizaciones estadísticas y estilizadas, ideal para explorar datos y destacar relaciones entre variables.
+scikit-learn: incluye Árbol de Decisión, KNN, Random Forest y otras herramientas de machine learning
+xgboost: implementación optimizada de Gradient Boosting
+
 
 # **Instalación** 💽
 
 Ejecuta el siguiente comando para instalar las bibliotecas necesarias:
 
-pip install 
-pandas
-numpy 
-matplotlib
+pip install pandas numpy matplotlib scikit-learn xgboost
 
 # **Instrucciones para Ejecutar** 🚀
 Clona este repositorio en tu máquina local: ´´´bash git clone https://github.com/Marion13673/TelecomX_PARTE2_LATAM.git Abre el archivo index.html en tu navegador para ver y usar la aplicación.
