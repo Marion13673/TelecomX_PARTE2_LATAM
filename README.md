@@ -1,20 +1,27 @@
-Extracción del Archivo Tratado
-Descripción
-Editar
-Carga el archivo CSV que contiene los datos tratados anteriormente.
-📂 Atención: Utiliza el mismo archivo que limpiaste y organizaste en la Parte 1 del desafío Telecom X. Debe contener solo las columnas relevantes, ya con los datos corregidos y estandarizados.
-Eliminación de Columnas Irrelevantes
-Descripción
-Editar
-Elimina columnas que no aportan valor al análisis o a los modelos predictivos, como identificadores únicos (por ejemplo, el ID del cliente). Estas columnas no ayudan en la predicción de la cancelación y pueden incluso perjudicar el desempeño de los modelos.
-Encoding
-Descripción
-Editar
-Transforma las variables categóricas a formato numérico para hacerlas compatibles con los algoritmos de machine learning. Utiliza un método de codificación adecuado, como one-hot encoding.
-Verificación de la Proporción de Cancelación (Churn)
-Descripción
-Editar
-Calcula la proporción de clientes que cancelaron en relación con los que permanecieron activos. Evalúa si existe un desbalance entre las clases, ya que esto puede impactar en los modelos predictivos y en el análisis de los resultados.
+**INTRODUCCIÓN** 🚀
+<div align='justify'>
+La empresa Telecom X enfrenta una alta tasa de cancelaciones y necesita comprender los factores que llevan a la pérdida de clientes (Churn), por lo tanto, requiere desarrollar modelos predictivos capaces de prever qué clientes tienen mayor probabilidad de cancelar sus servicios.
+  
+**Características** ✨
+
+Se extrae información de un archivo: **"datos_tratados.csv"**, donde los datos provienen del proyecto TelecomX, que han sido corregidos y estandarizados.
+
+Los principales objetivos:
+
+* Preparar los datos para el modelado (tratamiento, codificación, normalización).
+* Realizar análisis de correlación y selección de variables.
+* Entrenar dos o más modelos de clasificación.
+* Evaluar el rendimiento de los modelos con métricas.
+* Interpretar los resultados, incluyendo la importancia de las variables.
+* Crear una conclusión estratégica señalando los principales factores que influyen en la cancelación.
+
+**DESCRIPCIÓN** 🖌️
+
+Para ello se realiza los siguientes pasos para su extracción, transformación, análisis y conclusión:
+
+* ✅ Eliminación de Columnas Irrelevantes: Eliminar columnas que no aportan valor al análisis o a los modelos predictivos, como identificadores únicos (por ejemplo, el ID del cliente). Estas columnas no ayudan en la predicción de la cancelación y pueden incluso perjudicar el desempeño de los modelos.
+* ✅ Encoding:Transformar las variables categóricas a formato numérico para hacerlas compatibles con los algoritmos de machine learning. Se Utilizó un método de codificación adecuado, como one-hot encoding.
+* ✅ Verificación de la Proporción de Cancelación (Churn): Calcular la proporción de clientes que cancelaron en relación con los que permanecieron activos. Evalúa si existe un desbalance entre las clases, ya que esto puede impactar en los modelos predictivos y en el análisis de los resultados.
 Balanceo de Clases (opcional)
 Descripción
 Editar
