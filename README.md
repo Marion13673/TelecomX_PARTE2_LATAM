@@ -59,11 +59,11 @@ Se elaboró un informe detallado, destacando los factores que más influyen en l
 
 # **Archivos del Proyecto** 📂
 
-JSON: (JavaScript Object Notation) es un formato ligero para intercambiar datos de manera estructurada y fácil de leer. Utiliza pares clave-valor y estructuras anidadas como listas y objetos. Se emplea en APIs, almacenamiento de datos y configuración debido a su simplicidad y compatibilidad con múltiples lenguajes de programación. El archivo contiene las bases de datos de un conjunto de clientes separados por aquellos que abandonaron la empresa y otros que permanecen en la empresa para el análisis.
+CSV: es un archivo de texto plano que contiene datos organizados en forma de tabla, donde cada línea representa una fila de la tabla y los valores dentro de cada línea están separados por comas (,), aunque en algunos casos se usan otros delimitadores como punto y coma (;) o tabulaciones (\t).
 
 Jupyter Notebook: Proyecto desarrollado en Google Colaboratory, utilizando Python y bibliotecas como Pandas para realizar el análisis de datos.
 
-Lenguaje y Bibliotecas Utilizadas: 💻
+# *Lenguaje y Bibliotecas Utilizadas:** 💻
 
 Python
 
@@ -73,10 +73,15 @@ Pandas: Manipulación y análisis de datos estructurados.
 NumPy: Trabajo con arrays multidimensionales y cálculos matemáticos.
 Matplotlib: Creación de gráficos y visualizaciones de datos.
 Seaborn: Biblioteca avanzada para visualizaciones estadísticas y estilizadas, ideal para explorar datos y destacar relaciones entre variables.
-Instalación 💽
+
+# **Instalación** 💽
+
 Ejecuta el siguiente comando para instalar las bibliotecas necesarias:
 
-pip install pandas numpy matplotlib
+pip install 
+pandas
+numpy 
+matplotlib
 
 # **Instrucciones para Ejecutar** 🚀
 Clona este repositorio en tu máquina local: ´´´bash git clone https://github.com/Marion13673/TelecomX_PARTE2_LATAM.git Abre el archivo index.html en tu navegador para ver y usar la aplicación.
