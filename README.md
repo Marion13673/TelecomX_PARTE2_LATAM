@@ -66,12 +66,12 @@ Python
 
 Bibliotecas Principales:
 
-    - Pandas: Manipulación y análisis de datos estructurados.
-    - NumPy: Trabajo con arrays multidimensionales y cálculos matemáticos.
-    - Matplotlib: Creación de gráficos y visualizaciones de datos.
-    - Seaborn: Biblioteca avanzada para visualizaciones estadísticas y estilizadas, ideal para explorar datos y destacar relaciones          entre variables.
-    - scikit-learn: incluye Árbol de Decisión, KNN, Random Forest y otras herramientas de machine learning
-    - xgboost: implementación optimizada de Gradient Boosting
+    * Pandas: Manipulación y análisis de datos estructurados.
+    * NumPy: Trabajo con arrays multidimensionales y cálculos matemáticos.
+    * Matplotlib: Creación de gráficos y visualizaciones de datos.
+    * Seaborn: Biblioteca avanzada para visualizaciones estadísticas y estilizadas, ideal para explorar datos y destacar relaciones          entre variables.
+    * scikit-learn: incluye Árbol de Decisión, KNN, Random Forest y otras herramientas de machine learning
+    * xgboost: implementación optimizada de Gradient Boosting
 
 
 # **Instalación** 💽
