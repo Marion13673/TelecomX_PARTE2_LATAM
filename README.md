@@ -63,7 +63,7 @@ CSV: es un archivo de texto plano que contiene datos organizados en forma de tab
 
 Jupyter Notebook: Proyecto desarrollado en Google Colaboratory, utilizando Python y bibliotecas como Pandas para realizar el análisis de datos.
 
-# *Lenguaje y Bibliotecas Utilizadas:** 💻
+# **Lenguaje y Bibliotecas Utilizadas:** 💻
 
 Python
 
