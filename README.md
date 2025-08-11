@@ -1,9 +1,9 @@
-##**INTRODUCCIÓN** 🚀
+**INTRODUCCIÓN** 🚀
 <div align='justify'>
 La empresa Telecom X enfrenta una alta tasa de cancelaciones y necesita comprender los factores que llevan a la pérdida de clientes (Churn), por lo tanto, requiere desarrollar modelos predictivos capaces de prever qué clientes tienen mayor probabilidad de cancelar sus servicios.
 
   
-**Características** ✨
+##**Características**## ✨
 
 Se extrae información de un archivo: **"datos_tratados.csv"**, donde los datos provienen del proyecto TelecomX, que han sido corregidos y estandarizados.
 
