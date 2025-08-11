@@ -18,7 +18,7 @@ Los principales objetivos:
 * Interpretar los resultados, incluyendo la importancia de las variables.
 * Crear una conclusión estratégica señalando los principales factores que influyen en la cancelación.
 
-**DESCRIPCIÓN** 🖌️
+# **DESCRIPCIÓN** 🖌️
 
 Para ello se realiza los siguientes pasos para su extracción, transformación, análisis y conclusión:
 
