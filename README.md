@@ -41,7 +41,7 @@ Para ello se realiza los siguientes pasos para su extracción, transformación, 
 
 * ✅ Dividir el conjunto de datos en entrenamiento y prueba para evaluar el rendimiento del modelo. Una división común es 70% para entrenamiento y 30% para prueba.
 
-* ✅ Después de elegir los modelos, realizar el análisis de las variables más relevantes para la predicción de la cancelación:
+* ✅ Después de elegir los modelos, se realizó el análisis de las variables más relevantes para la predicción de la cancelación:
 
     
     - KNN (K-Nearest Neighbors): Observar cómo los vecinos más cercanos influyen en la decisión de clasificación. Las variables más           impactantes pueden ser aquellas que más contribuyen a la proximidad entre los puntos de datos.
