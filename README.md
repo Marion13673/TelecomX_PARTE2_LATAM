@@ -53,11 +53,46 @@ Para ello se realiza los siguientes pasos para su extracción, transformación, 
 
     - Otros Modelos: Dependiendo del modelo elegido, considera el análisis de métricas específicas para comprender la relevancia de las       variables. Por ejemplo, coeficientes en modelos lineales, pesos en redes neuronales, o la importancia relativa en técnicas de           boosting (como XGBoost).
       
-# **CONCLUSIÓN**
+# **CONCLUSIÓN** 💿
 
 Se elaboró un informe detallado, destacando los factores que más influyen en la cancelación, basándose en las      variables seleccionadas y en el rendimiento de cada modelo. Se identificó los principales factores que afectan la cancelación de clientes y se propuso estrategias de retención basadas en los resultados obtenidos.
 
-  
+# **Archivos del Proyecto** 📂
+
+JSON: (JavaScript Object Notation) es un formato ligero para intercambiar datos de manera estructurada y fácil de leer. Utiliza pares clave-valor y estructuras anidadas como listas y objetos. Se emplea en APIs, almacenamiento de datos y configuración debido a su simplicidad y compatibilidad con múltiples lenguajes de programación. El archivo contiene las bases de datos de un conjunto de clientes separados por aquellos que abandonaron la empresa y otros que permanecen en la empresa para el análisis.
+
+Jupyter Notebook: Proyecto desarrollado en Google Colaboratory, utilizando Python y bibliotecas como Pandas para realizar el análisis de datos.
+
+Lenguaje y Bibliotecas Utilizadas: 💻
+
+Python
+
+Bibliotecas Principales:
+
+Pandas: Manipulación y análisis de datos estructurados.
+NumPy: Trabajo con arrays multidimensionales y cálculos matemáticos.
+Matplotlib: Creación de gráficos y visualizaciones de datos.
+Seaborn: Biblioteca avanzada para visualizaciones estadísticas y estilizadas, ideal para explorar datos y destacar relaciones entre variables.
+Instalación 💽
+Ejecuta el siguiente comando para instalar las bibliotecas necesarias:
+
+pip install pandas numpy matplotlib
+
+# **Instrucciones para Ejecutar** 🚀
+Clona este repositorio en tu máquina local: ´´´bash git clone https://github.com/Marion13673/TelecomX_LATAM.git Abre el archivo index.html en tu navegador para ver y usar la aplicación.
+
+# **Contribuciones** 🤝
+💡 ¡Las contribuciones son bienvenidas! Si deseas contribuir a este proyecto, por favor sigue estos pasos:
+
+Haz un fork del repositorio.
+
+Crea una rama con tu nueva característica (git checkout -b feature/nueva-caracteristica).
+Realiza tus cambios y haz un commit (git commit -m 'Añadir nueva característica').
+Envía tu rama al repositorio remoto (git push origin feature/nueva-caracteristica).
+Abre una Pull Request.
+
+# **Licencia** 📜
+📄 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para más información.
 
 
 
